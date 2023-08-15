@@ -1,0 +1,171 @@
+,depmap_id,cell_line_name,sample_collection_site,primary_disease,count
+0,ACH-000425,UACC62,skin,Skin Cancer,9636
+1,ACH-000615,SK-MEL-28,skin,Skin Cancer,9172
+2,ACH-000579,UACC-257,skin,Skin Cancer,8985
+3,ACH-000750,LOX IMVI,lymph_node,Skin Cancer,8756
+4,ACH-000730,SK-MEL-5,lymph_node,Skin Cancer,8682
+5,ACH-001190,SK-MEL-2,skin,Skin Cancer,7664
+6,ACH-000788,A2058,lymph_node,Skin Cancer,5335
+7,ACH-000147,T-47D,pleural_effusion,Breast Cancer,5233
+8,ACH-000651,SW-620,lymph_node,Colon/Colorectal Cancer,5224
+9,ACH-000810,SKMEL30,skin,Skin Cancer,5193
+10,ACH-000644,COLO 829,skin,Skin Cancer,5173
+11,ACH-000348,RPMI7951,lymph_node,Skin Cancer,5123
+12,ACH-000450,Mel Ho,skin,Skin Cancer,5119
+13,ACH-000968,COLO 792,central_nervous_system,Skin Cancer,5045
+14,ACH-000552,HT29,large_intestine,Colon/Colorectal Cancer,5038
+15,ACH-000900,NCIH23,lung,Lung Cancer,5008
+16,ACH-000971,HCT116,large_intestine,Colon/Colorectal Cancer,4981
+17,ACH-000572,G-361,skin,Skin Cancer,4980
+18,ACH-000811,SK-OV-3,ascites,Ovarian Cancer,4950
+19,ACH-000401,COLO 800,skin,Skin Cancer,4912
+20,ACH-000463,NCI-H460,pleural_effusion,Lung Cancer,4890
+21,ACH-000614,RVH-421,central_nervous_system,Skin Cancer,4873
+22,ACH-000008,A101D,skin,Skin Cancer,4869
+23,ACH-000019,MCF7,pleural_effusion,Breast Cancer,4839
+24,ACH-000001,OVCAR3,ascites,Ovarian Cancer,4829
+25,ACH-000849,MDA-MB-468,pleural_effusion,Breast Cancer,4757
+26,ACH-000304,WM115,skin,Skin Cancer,4699
+27,ACH-000219,A375,skin,Skin Cancer,4656
+28,ACH-000555,A498,kidney,Kidney Cancer,4629
+29,ACH-000915,IPC-298,skin,Skin Cancer,4584
+30,ACH-000288,BT-549,breast,Breast Cancer,4538
+31,ACH-000148,HS 578T,breast,Breast Cancer,4528
+32,ACH-000367,NCI-H226,pleural_effusion,Lung Cancer,4523
+33,ACH-000376,SF-295,central_nervous_system,Brain Cancer,4499
+34,ACH-000681,A549,lung,Lung Cancer,4495
+35,ACH-000987,MeWo,lymph_node,Skin Cancer,4487
+36,ACH-000046,ACHN,pleural_effusion,Kidney Cancer,4483
+37,ACH-000997,HCT-15,large_intestine,Colon/Colorectal Cancer,4477
+38,ACH-000768,MDA-MB-231,pleural_effusion,Breast Cancer,4474
+39,ACH-001151,OVCAR-5,ascites,Ovarian Cancer,4472
+40,ACH-000655,SF-268,central_nervous_system,Brain Cancer,4469
+41,ACH-000232,U251,central_nervous_system,Brain Cancer,4456
+42,ACH-000969,KM12,large_intestine,Colon/Colorectal Cancer,4452
+43,ACH-000090,PC-3,bone,Prostate Cancer,4446
+44,ACH-000966,IGROV1,ovary,Ovarian Cancer,4441
+45,ACH-000343,NCI-H522,lung,Lung Cancer,4436
+46,ACH-000696,OVCAR-8,ovary,Ovarian Cancer,4435
+47,ACH-000273,SF-539,central_nervous_system,Brain Cancer,4425
+48,ACH-000649,786-0,kidney,Kidney Cancer,4424
+49,ACH-000477,MALME-3M,lung,Skin Cancer,4422
+50,ACH-000617,OVCAR-4,ascites,Ovarian Cancer,4417
+51,ACH-000433,CAKI-1,skin,Kidney Cancer,4416
+52,ACH-000428,UO-31,kidney,Kidney Cancer,4409
+53,ACH-000551,K-562,pleural_effusion,Leukemia,4399
+54,ACH-000338,SR,pleural_effusion,Lymphoma,4350
+55,ACH-000825,HOP-92,lung,Lung Cancer,4345
+56,ACH-000861,HOP-62,lung,Lung Cancer,4322
+57,ACH-000706,EKVX,lung,Lung Cancer,4321
+58,ACH-000504,SNB-75,central_nervous_system,Brain Cancer,4284
+59,ACH-000817,RPMI-8226,haematopoietic_and_lymphoid_tissue,Myeloma,4282
+60,ACH-001685,U-HO1,pleural_effusion,Lymphoma,2824
+61,ACH-000702,L-1236,haematopoietic_and_lymphoid_tissue,Lymphoma,2245
+62,ACH-000052,A-673,soft_tissue,Bone Cancer,1821
+63,ACH-000571,T98G,central_nervous_system,Brain Cancer,1610
+64,ACH-000097,ZR751,ascites,Breast Cancer,995
+65,ACH-000028,KPL1,pleural_effusion,Breast Cancer,891
+66,ACH-000573,MDAMB436,pleural_effusion,Breast Cancer,685
+67,ACH-000943,RKO,Colon,Colon/Colorectal Cancer,635
+68,ACH-000421,SW837,large_intestine,Colon/Colorectal Cancer,632
+69,ACH-000395,NCIH520,lung,Lung Cancer,624
+70,ACH-000115,VCAP,bone,Prostate Cancer,553
+71,ACH-001061,DLD1,large_intestine,Colon/Colorectal Cancer,539
+72,ACH-000322,HT144,skin,Skin Cancer,539
+73,ACH-000657,A2780,ovary,Ovarian Cancer,539
+74,ACH-000950,LOVO,lymph_node,Colon/Colorectal Cancer,539
+75,ACH-000757,A427,lung,Lung Cancer,539
+76,ACH-000335,MSTO,pleural_effusion,Lung Cancer,539
+77,ACH-000713,CAOV3,ovary,Ovarian Cancer,539
+78,ACH-000291,OV90,ascites,Ovarian Cancer,539
+79,ACH-001418,UWB1289,ovary,Ovarian Cancer,539
+80,ACH-000665,SKMES1,pleural_effusion,Lung Cancer,539
+81,ACH-000035,NCIH1650,pleural_effusion,Lung Cancer,539
+82,ACH-000906,ES2,ovary,Ovarian Cancer,539
+83,ACH-001374,PA1,ascites,Ovarian Cancer,538
+84,ACH-000311,NCIH2122,pleural_effusion,Lung Cancer,534
+85,ACH-000783,CAMA-1,pleural_effusion,Breast Cancer,450
+86,ACH-000934,MDA-MB-361,central_nervous_system,Breast Cancer,390
+87,ACH-000927,BT-474,breast,Breast Cancer,390
+88,ACH-000277,HCC1419,breast,Breast Cancer,354
+89,ACH-000568,UACC-812,breast,Breast Cancer,343
+90,ACH-000349,HCC1500,breast,Breast Cancer,342
+91,ACH-000759,MDA-MB-175-VII,pleural_effusion,Breast Cancer,340
+92,ACH-000473,RT-112,urinary_tract,Bladder Cancer,181
+93,ACH-000384,SW780,urinary_tract,Bladder Cancer,180
+94,ACH-000880,AGS,stomach,Gastric Cancer,174
+95,ACH-000547,HT-1197,urinary_tract,Bladder Cancer,164
+96,ACH-000396,J82,urinary_tract,Bladder Cancer,164
+97,ACH-000720,TCCSUP,urinary_tract,Bladder Cancer,163
+98,ACH-000724,HT-1376,urinary_tract,Bladder Cancer,163
+99,ACH-000802,BFTC-905,urinary_tract,Bladder Cancer,163
+100,ACH-000896,647V,urinary_tract,Bladder Cancer,163
+101,ACH-000522,UM-UC-3,urinary_tract,Bladder Cancer,162
+102,ACH-000018,T24,urinary_tract,Bladder Cancer,162
+103,ACH-000486,KU-19-19,urinary_tract,Bladder Cancer,161
+104,ACH-000545,VM-CUB-1,urinary_tract,Bladder Cancer,161
+105,ACH-000621,MDA-MB-157,pleural_effusion,Breast Cancer,147
+106,ACH-000668,HCC70,breast,Breast Cancer,147
+107,ACH-000910,MDA-MB-453,pericardial_effusion,Breast Cancer,147
+108,ACH-000699,HCC1395,breast,Breast Cancer,147
+109,ACH-000536,BT-20,breast,Breast Cancer,146
+110,ACH-000111,HCC1187,breast,Breast Cancer,146
+111,ACH-000212,CAL-120,pleural_effusion,Breast Cancer,127
+112,ACH-000352,HCC1428,pleural_effusion,Breast Cancer,106
+113,ACH-000856,CAL-51,pleural_effusion,Breast Cancer,106
+114,ACH-000624,HCC1806,breast,Breast Cancer,106
+115,ACH-000223,HCC1937,breast,Breast Cancer,106
+116,ACH-000276,HCC38,breast,Breast Cancer,106
+117,ACH-000374,HCC1143,breast,Breast Cancer,106
+118,ACH-001819,MFM-223,pleural_effusion,Breast Cancer,105
+119,ACH-001390,SUM149PT,breast,Breast Cancer,104
+120,ACH-000902,CAL-148,pleural_effusion,Breast Cancer,103
+121,ACH-000480,Huh-7,liver,Liver Cancer,103
+122,ACH-000258,DU4475,skin,Breast Cancer,103
+123,ACH-000007,LS513,large_intestine,Colon/Colorectal Cancer,100
+124,ACH-000958,SW48,Colon,Colon/Colorectal Cancer,100
+125,ACH-000403,NCI-H747,large_intestine,Colon/Colorectal Cancer,99
+126,ACH-000680,SW948,Colon,Colon/Colorectal Cancer,99
+127,ACH-000820,SW403,Colon,Colon/Colorectal Cancer,98
+128,ACH-000169,RD,soft_tissue,Sarcoma,90
+129,ACH-000530,DMS 114,lung,Lung Cancer,85
+130,ACH-000747,NCI-H1703,lung,Lung Cancer,85
+131,ACH-001196,SMS-CTR,soft_tissue,Sarcoma,82
+132,ACH-001396,SUM52PE,pleural_effusion,Breast Cancer,68
+133,ACH-000582,COLO 741,skin,Skin Cancer,68
+134,ACH-001458,C75,large_intestine,Colon/Colorectal Cancer,67
+135,ACH-000860,NCI-H358,lung,Lung Cancer,62
+136,ACH-000837,NCI-H322,lung,Lung Cancer,62
+137,ACH-000785,NCI-H2126,haematopoietic_and_lymphoid_tissue,Lung Cancer,62
+138,ACH-000718,NCI-H2291,lymph_node,Lung Cancer,62
+139,ACH-000447,NCI-H2228,lung,Lung Cancer,62
+140,ACH-000481,NCI-H2170,lung,Lung Cancer,62
+141,ACH-000892,NCI-H1563,lung,Lung Cancer,62
+142,ACH-000451,NCI-H2085,lung,Lung Cancer,62
+143,ACH-000587,NCI-H1975,lung,Lung Cancer,62
+144,ACH-000888,NCI-H1793,lung,Lung Cancer,62
+145,ACH-000589,NCI-H1437,pleural_effusion,Lung Cancer,62
+146,ACH-000510,NCI-H1299,lymph_node,Lung Cancer,62
+147,ACH-000669,SW900,lung,Lung Cancer,62
+148,ACH-000264,Calu-6,pleural_effusion,Lung Cancer,61
+149,ACH-000392,Calu-3,pleural_effusion,Lung Cancer,61
+150,ACH-000337,NCI-H3122,lung,Lung Cancer,61
+151,ACH-000779,PC-9,lung,Lung Cancer,61
+152,ACH-000416,NCI-H838,lymph_node,Lung Cancer,61
+153,ACH-000511,Calu-1,pleura,Lung Cancer,60
+154,ACH-000754,L-428,pleural_effusion,Lymphoma,47
+155,ACH-000267,HDLM-2,pleural_effusion,Lymphoma,47
+156,ACH-000017,SK-BR-3,pleural_effusion,Breast Cancer,45
+157,ACH-000859,HCC1954,breast,Breast Cancer,45
+158,ACH-000876,MDA-MB-415,pleural_effusion,Breast Cancer,45
+159,ACH-000930,HCC1569,breast,Breast Cancer,45
+160,ACH-000424,TC-71,bone,Bone Cancer,44
+161,ACH-001751,Rh36,soft_tissue,Sarcoma,44
+162,ACH-000499,EW-8,bone,Bone Cancer,44
+163,ACH-000793,KATO III,pleural_effusion,Gastric Cancer,23
+164,ACH-000581,SNU-16,ascites,Gastric Cancer,23
+165,ACH-000714,KMS-11,pleural_effusion,Myeloma,23
+166,ACH-000753,JMSU-1,ascites,Bladder Cancer,23
+167,ACH-000242,RT-4,urinary_tract,Bladder Cancer,22
+168,ACH-000956,22Rv1,prostate,Prostate Cancer,15
+169,ACH-000164,PANC-1,pancreas,Pancreatic Cancer,10

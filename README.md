@@ -13,7 +13,7 @@ The repository is organised as follows:
 - `experiment/` contains log files and output files;
 - `utils.py` contains the necessary processing subroutines;
 - `metrics.py` contains the necessary functions to calculate model evaluation metrics;
-- `main.py` main function for SynergyX;
+- `main.py` main function for SynergyX.
 
 
 ## Requirements
@@ -37,8 +37,7 @@ pip install rdkit
 
 1. In SynergyX, we use normalized multi-omics data of cell lines and substructure encodings of drugs as input features. The preprocessed data is stored in `data/0_cell_data/` and `data/1_drug_data/`. You can also preprocess your own data by following the steps in `data/data_process.ipynb`. <br>
 **Note**:
-   - `data/0_cell_data/` is is available for download [here](https://drive.google.com/drive/folders/1tQ9gWUcPuJQrUCMOropb0iTVXLC10hTg?usp=sharing).
-   - If raw data is needed, please refer to `data/raw_data/`. Specifically, the raw omics data can be downloaded [here](https://drive.google.com/file/d/1M2A5zEN7X7Sxm_BfL-xpoNIevHnx4eF9/view?usp=sharing) and placed in `data/raw_data/omics_data`.
+   Due to the size of certain data files, direct uploading to GitHub is not feasible.These files can be accessed for download [here](https://drive.google.com/drive/folders/1jhzBSWNth5Clv9DQj8M7XujT1HIAfkoM?usp=drive_link). If you require these data, please download it and place it in the appropriate folder.
    
 3. Our collected drug combination data is stored in `data/split/all_items.npy`, where the data items are in the format `[drugA_canonical_smi, drugB_canonical_smi, cell_ID, label]`. Note that your data should be organized in the same format. If the label is unknown, assign a value of `0.` to the label.
 4. Before training or testing the model, remember to update the data path within `utils.py`.
